@@ -4,6 +4,7 @@ Welcome to **OpenTalkGpt**! This Chrome extension allows you to chat with any op
 
 ## Source Code : https://github.com/adarshM84/OpenTalkGptCode
 
+
 ## 🌟 Key Features
 
 - **Easy Model Management** 📂  
