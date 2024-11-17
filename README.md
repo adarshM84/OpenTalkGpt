@@ -23,18 +23,23 @@ Welcome to **OpenTalkGpt**! This Chrome extension allows you to chat with any op
 
 > Below are a few screenshots to give you an idea of OpenTalkGpt’s interface:
 
-![Download Models](sample-image-download.png)  
-*Download models effortlessly with one click!*
+### Download models effortlessly with one click!*
 
-![Chat with Models](sample-image-chat.png)  
-*Chat with models directly from the browser.*
+![image3](https://github.com/user-attachments/assets/d22d7957-c5ac-4f68-8723-b5f26f1855b0)
 
-![Delete Models](sample-image-delete.png)  
-*Manage your models easily - download or delete as needed!*
+### Chat with models directly from the browser.*
+
+![imag1](https://github.com/user-attachments/assets/79c81d66-dac6-47ed-b221-756c8de97679)
+
+### Manage your models easily - download or delete as needed!*
+![image2](https://github.com/user-attachments/assets/3ba4e409-ab6e-461a-a59b-05320052c034)
+
+
+
 
 ## 🚀 Getting Started
 
-1. **Install OpenTalkGpt**: Get it from the Chrome Web Store.
+1. **Install OpenTalkGpt**: Get it from the Chrome Web Store https://chromewebstore.google.com/detail/opentalkgpt/idknomikbgopkhpepapoehhoafacddlk?authuser=0&hl=en-GB.
 2. **Download Models**: Select the models you’d like to use and download them from the UI.
 3. **Chat & Explore**: Start chatting with models or switch between them seamlessly.
 4. **Manage Models**: Delete or replace models whenever you want to update your collection.
