@@ -2,8 +2,8 @@
 
 Welcome to **OpenTalkGpt**! This Chrome extension allows you to chat with any open-source model supported by Ollama, directly from a user-friendly interface. With this tool, you can easily download, delete, and interact with models, all within your browser! 🚀
 
-### Source Code : https://github.com/adarshM84/OpenTalkGptCode
 ### Chrome Extention Link : <a href="https://chromewebstore.google.com/detail/opentalkgpt/idknomikbgopkhpepapoehhoafacddlk?authuser=0&hl=en-GB" target="_blank">OpenTalkGpt</a>
+### Source Code : https://github.com/adarshM84/OpenTalkGptCode
 
 
 ## 🌟 Key Features
