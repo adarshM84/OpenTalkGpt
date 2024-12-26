@@ -3,6 +3,7 @@
     <meta name="description" content="OpenTalkGPT Chrome extension lets you chat seamlessly with open-source AI models like LLaMA via Ollama. With a sleek UI, configure servers, manage models, and personalize your AI assistant. Perfect for AI enthusiasts and developers to download, delete, or modify models easily." />
     <meta name="keywords" content="chatgpt,ollama,ollmaui,ollama ui,talk gpt,OpenTalkGPT, Chrome extension, LLaMA, Ollama, AI assistant, open-source models, chat with AI, manage models, download models, personalize AI, AI developers, AI enthusiasts, server configuration,ollama extention,chrome extention,free ai tools,ai tools,best extention,chatgpt extention" />
     <meta name="author" content="Adarsh Mishra" />
+
 # 🌐 OpenTalkGpt - Chat with Open-Source Models Directly from Your Browser!
 
 Welcome to **OpenTalkGpt**! This Chrome extension allows you to chat with any open-source model supported by Ollama, directly from a user-friendly interface. With this tool, you can easily download, delete, and interact with models, all within your browser! 🚀
