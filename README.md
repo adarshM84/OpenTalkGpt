@@ -29,19 +29,19 @@ Welcome to **OpenTalkGpt**! This Chrome extension allows you to chat with any op
 
 ### Download models effortlessly with one click!*
 
-![image3](https://github.com/user-attachments/assets/109172b8-08b6-43e2-91bd-45d67484e259)
+<img width="1370" height="697" alt="img4" src="https://github.com/user-attachments/assets/26a56fff-3e29-4bb6-ba91-c8e43dc30399" />
 
 ### Chat with models directly from the browser.*
 
-![image4](https://github.com/user-attachments/assets/0ea7b313-8a6b-4202-81bf-dfedece5ebda)
+<img width="1370" height="697" alt="image" src="https://github.com/user-attachments/assets/a95fd190-b963-478b-aa0b-29fc70ca5846" />
 
 ### Manage your models easily - download or delete as needed!*
 
-![image2](https://github.com/user-attachments/assets/59375c09-85de-435a-9bc4-6b1bc34db380)
+<img width="1370" height="697" alt="img3" src="https://github.com/user-attachments/assets/1a0bc5cc-8bc3-4c66-b689-204e44fa3ad3" />
 
 ### Create your custom modal
 
-![image6](https://github.com/user-attachments/assets/0c0b3809-6b3a-4787-9259-dfb3cb55f1c3)
+<img width="1370" height="697" alt="img5" src="https://github.com/user-attachments/assets/2b319f58-58fe-4e76-9789-1f830185f71f" />
 
 
 
