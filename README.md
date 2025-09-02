@@ -43,9 +43,7 @@ Welcome to **OpenTalkGpt**! This Chrome extension allows you to chat with any op
 
 <img width="1370" height="697" alt="img5" src="https://github.com/user-attachments/assets/2b319f58-58fe-4e76-9789-1f830185f71f" />
 
-
 ### Chat with pdf document with the help of RAG
-
 ![img2](https://github.com/user-attachments/assets/362f4a46-82c5-4846-9be5-f7b297252c0a)
 
 
